@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
 	<wb-module deploy-name="Atoms">
+=======
+	<wb-module deploy-name="shop">
+>>>>>>> 803e5d09b7a3912f43e375551f37c2c10e88ca45
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
 		<wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>

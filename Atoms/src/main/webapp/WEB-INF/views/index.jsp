@@ -10,7 +10,6 @@
 <link rel="stylesheet" href="${path}/resources/css/common.css">
 </head>
 <body>
-	<div>
-	</div>
+	
 </body>
 </html>
