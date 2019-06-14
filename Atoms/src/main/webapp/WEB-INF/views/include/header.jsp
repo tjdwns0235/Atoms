@@ -7,7 +7,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <link rel="stylesheet" href="${path}/resources/css/header.css">
-<link rel="stylesheet" href="${path}/resources/css/common.css">
 </head>
 <body>
 	<div class="header_menu">
